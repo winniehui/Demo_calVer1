@@ -32,7 +32,7 @@ def test_add():
     time.sleep(1)
 
     #result_text = dr.find_element(By.XPATH,path_result).text
-    result_text = 11
+    result_text = 8
     time.sleep(1)
 
     t_logoff(dr)

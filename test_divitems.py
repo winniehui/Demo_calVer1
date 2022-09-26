@@ -34,7 +34,7 @@ def testDiv():
     dr.find_element(By.XPATH, path_eq).click()
     time.sleep(1)
 
-    result_text = 3
+    result_text = 4
     time.sleep(1)
 
     t_logoff(dr)

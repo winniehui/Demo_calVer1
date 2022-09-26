@@ -30,7 +30,7 @@ def testSub():
     dr.find_element(By.XPATH, path_eq).click()
     time.sleep(1)
 
-    result_text = 4
+    result_text = 3
     time.sleep(1)
 
     t_logoff(dr)

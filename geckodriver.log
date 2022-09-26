@@ -1,0 +1,22 @@
+1663941453115	geckodriver	INFO	Listening on 127.0.0.1:65155
+1663941456237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekRtd6z"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+1663941457087	Marionette	INFO	Marionette enabled
+1663941457093	Marionette	INFO	Listening on port 65170
+Read port: 65170
+1663941457244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekRtd6z\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2026-s.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663941469185	Marionette	INFO	Stopped listening on port 65170
+1664165494727	geckodriver	INFO	Listening on 127.0.0.1:56312
+1664165497790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile333gkj"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+1664165498999	Marionette	INFO	Marionette enabled
+1664165499005	Marionette	INFO	Listening on port 56329
+Read port: 56329
+1664165499486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile333gkj\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2026-s.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664165508957	Marionette	INFO	Stopped listening on port 56329
